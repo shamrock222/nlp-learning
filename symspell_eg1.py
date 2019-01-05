@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@refer:https://github.com/shamrock222/symspellpy
+@refer:https://github.com/mammothb/symspellpy
 @usage:lookup and lookup_compound
 """
 
@@ -18,7 +18,7 @@ def main():
                          prefix_length)
     # load dictionary
     dictionary_path = os.path.join(os.path.dirname(__file__),
-                                   "../data/frequency_dictionary_en_82_765.txt")
+                                   "./data/frequency_dictionary_en_82_765.txt")
     term_index = 0  # column of the term in the dictionary text file
     count_index = 1  # column of the term frequency in the dictionary text file
     if not sym_spell.load_dictionary(dictionary_path, term_index, count_index):
