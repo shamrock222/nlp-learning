@@ -1,6 +1,7 @@
 # nlp-learning
 ## 1 spell correction:  
 How to Write a Spelling Corrector:  http://norvig.com/spell-correct.html  
+中文(语音结果)的文本纠错综述 Chinese Spelling Check: https://blog.csdn.net/lipengcn/article/details/82556569  
 ### 1.1 symspell
 SymSpell: https://github.com/wolfgarbe/SymSpell  
 SymSpellpy:https://github.com/mammothb/symspellpy    
