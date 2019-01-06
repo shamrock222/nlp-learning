@@ -12,6 +12,8 @@ pycorrector: https://github.com/shibing624/pycorrector
 pip3 install -r requirements.txt  
 pip3 install pycorrector  
 ### pypinyin
+## 句法分析  
+CS224n之句法分析总结 https://blog.csdn.net/yu5064/article/details/82151578  
 
 
 
