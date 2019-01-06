@@ -3,10 +3,10 @@
 ### standford corenlp
 使用Stanford CoreNLP的Python封装包处理中文 https://blog.csdn.net/guolindonggld/article/details/72795022  
 安装stanfordcorenlp包:   
-  1)下载安装JDK 1.8及以上版本 
-  2)下载Stanford CoreNLP文件，解压
-  3)处理中文还需要下载中文模型的jar文件，然后放到CoreNLP解压包根目录下面  
-  4) pip install stanfordcorenlp  
+  1)下载安装JDK 1.8及以上版本  
+  2)下载Stanford CoreNLP文件，解压  
+  3)处理中文还需要下载中文模型的jar文件，然后放到CoreNLP解压包根目录下面   
+  4) pip install stanfordcorenlp   
 ## 1 spell correction:  
 How to Write a Spelling Corrector   http://norvig.com/spell-correct.html  
 中文(语音结果)的文本纠错综述 Chinese Spelling Check  https://blog.csdn.net/lipengcn/article/details/82556569  
