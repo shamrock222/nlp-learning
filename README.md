@@ -23,6 +23,8 @@ pip3 install pycorrector
 ### 1.3 pypinyin
 ## 2 句法分析  
 CS224n之句法分析总结 https://blog.csdn.net/yu5064/article/details/82151578  
+### 2.1 依存关系分析(dependency parsing)
+基于神经网络的依存句法分析总结  https://blog.csdn.net/yu5064/article/details/82186738
 
 
 
