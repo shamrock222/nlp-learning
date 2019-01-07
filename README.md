@@ -7,6 +7,14 @@
   2)下载Stanford CoreNLP文件，解压  
   3)处理中文还需要下载中文模型的jar文件，然后放到CoreNLP解压包根目录下面   
   4) pip install stanfordcorenlp   
+### 哈工大 pyltp
+源码： https://github.com/HIT-SCIR/pyltp   
+文档： https://pyltp.readthedocs.io/zh_CN/latest/api.html#id21  
+安装：  
+  1)pip install pylap   
+  2)下载模型文件： http://ltp.ai/download.html
+
+
 ## 1 spell correction:  
 How to Write a Spelling Corrector   http://norvig.com/spell-correct.html  
 中文(语音结果)的文本纠错综述 Chinese Spelling Check  https://blog.csdn.net/lipengcn/article/details/82556569  
