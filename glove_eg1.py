@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-@refer: https://github.com/keras-team/keras/blob/master/examples/pretrained_word_embeddings.py
+@refer:
+https://github.com/keras-team/keras/blob/master/examples/pretrained_word_embeddings.py
+https://github.com/MoyanZitto/keras-cn/blob/master/docs/legacy/blog/word_embedding.md
 @usage: 
 """
 '''This script loads pre-trained word embeddings (GloVe embeddings)
