@@ -33,6 +33,11 @@ pip3 install pycorrector
 CS224n之句法分析总结 https://blog.csdn.net/yu5064/article/details/82151578  
 ### 2.1 依存关系分析(dependency parsing)
 基于神经网络的依存句法分析总结  https://blog.csdn.net/yu5064/article/details/82186738
+## 3 Embedding
+### 3.1 Unsuperivised Sentence Embedding  
+SDAE  Learning Distributed Representations of Sentences from Unlabelled Data  
+https://github.com/jihunchoi/sequential-denoising-autoencoder-tf
+
 
 
 
